@@ -1,0 +1,88 @@
+h1{
+	
+	background-color:white;
+	font-size:550%;
+	font-family:Cabin;
+	color:#4dc3ff;
+}
+
+h4{
+	font-size:450%;
+	font-family:Cabin;
+}
+
+.image{
+	padding-left:650px;
+
+}
+
+
+.cont{
+	padding-top:200px;
+	padding-left:70px;
+}
+
+.navbar{
+	height:70px;
+	padding-top:10px;
+	color:blue;
+}
+
+
+.navelt{
+	font-size:25px;
+	font-family:Cabin;
+	
+}
+.procont{
+	padding-top:100px;
+}
+.proone{
+	padding-left:50px;
+	font-size:40px;
+	font-family:Cabin;
+	
+}
+
+.protwo{
+	padding-left:52px;
+	font-size:25px;
+	font-family:Cabin;
+}
+
+.profour{
+	padding-left:52px;
+	font-size:25px;
+	font-family:Cabin;
+}
+
+.profive{
+	font-size:20px;
+	font-family:Cabin;
+	padding-left:60px;
+}
+
+.btnone{
+	padding-left:75px;
+}
+
+.prione{
+	padding-top:100px;
+}
+
+.pricont{
+	padding-top:20px;
+	width:80%;
+	padding-left:60px;
+}
+
+.active{
+	background-color:#F8F8F8 ;
+	font:black;
+	border-radius:7px;
+}
+.img2{
+	padding-bottom:20px;
+	width:50px;
+	height:50px;
+}
